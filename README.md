@@ -7,4 +7,4 @@ This is mostly for a self learning tool the exercises that are here are not for 
 
 Please do not copy the solutions that are outlined here!!!
 
-The solutions are based on the book Introduction to Statistical Learning.There are many student solutions online. 
+The exercises are from on the book 'Introduction to Statistical Learning' by Hastie and Tibshirani.
