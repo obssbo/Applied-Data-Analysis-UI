@@ -1,6 +1,6 @@
-# Applied-Data-Analysis-UI
-This is repo for applied data analysis course
-Contains all homework assignments for class applied data analysis.
+# Applied Data Analysis
+This is repo for Applied Data Analysis course.
+Contains all homework assignments and final project.
 
 # Who is this repo for
 This is mostly for a self learning tool the exercises that are here are not for copying but only for the author to understand the material better + using github.
